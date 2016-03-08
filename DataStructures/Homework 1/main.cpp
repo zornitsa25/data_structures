@@ -1,4 +1,4 @@
-// Zornitsa Chopova 45043
+// Zornitsa Chopova
 #include "Stack.h"
 #include "Expression.h"
 
